@@ -775,7 +775,4 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
   
-  <!-- included to easily edit the xml -->
-
-  <include name="anbox.xml" />
 </manifest>
